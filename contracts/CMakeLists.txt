@@ -5,7 +5,7 @@ add_subdirectory(proxy)
 add_subdirectory(test_api)
 add_subdirectory(simpledb)
 add_subdirectory(storage)
-add_subdirectory(tic-tac-toe)
+add_subdirectory(tic_tac_toe)
 add_subdirectory(dice)
 #add_subdirectory(social)
 
